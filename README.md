@@ -50,7 +50,7 @@ This project involves creating, cleaning, and analyzing a retail sales database.
     Quantity INT,
     PricePerUnit INT,
     TotalAmount INT
-);
+    );
     ```
 
 4. **Create Indexes for Query Performance**
