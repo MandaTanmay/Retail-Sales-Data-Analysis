@@ -4,7 +4,7 @@
 
 Project Title: Retail Sales Analysis
 
-Level: Beginner
+Level: Intermediate
 
 This project involves creating, cleaning, and analyzing a retail sales database. The primary objectives are:
 - Setting up a normalized database for sales records.
